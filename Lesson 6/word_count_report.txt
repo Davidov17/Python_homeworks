@@ -1,0 +1,4 @@
+Word Count Report
+
+Total Words: 15
+Top 5 most common words:
